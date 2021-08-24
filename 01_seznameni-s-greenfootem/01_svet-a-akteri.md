@@ -27,10 +27,10 @@ Vyzkoušej si vytvořit třeba aktéra s&nbsp;názvem `Ryba`:
 ![Zadání názvu aktéra](../img/greenfoot-akter2.png)
 
 > POZOR! Při vymýšlení názvů tříd bys měl(a) dodržovat pravidla:
->     1. Názvy tříd by vždy měly začínat velkými písmenem! 
->     2. Pokud se název třídy skládá z více slov, začíná vždy další slovo opět velkým písmenem.
->     3. Doporučujeme nepoužívat znaky s diakritickými znaménky (háčky, čárky, kroužky).
->     4. V názvu tříd nesmí být mezery ani pomlčky!
+> 1. Názvy tříd by vždy měly začínat velkými písmenem! 
+> 2. Pokud se název třídy skládá z více slov, začíná vždy další slovo opět velkým písmenem.
+> 3. Doporučujeme nepoužívat znaky s diakritickými znaménky (háčky, čárky, kroužky).
+> 4. V názvu tříd nesmí být mezery ani pomlčky!
 >  
 > Příklady správně zapsaných názvů tříd jsou například: 
 > `Ryba`, `ZavodniAuto`, `Panacek`, `ExplozeVelka`, `ExplozeMala`, `Kyticka`, `RuzovyDort`,...
