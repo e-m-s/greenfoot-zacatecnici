@@ -2,18 +2,22 @@
 
 ---
 ## Úvod
-### [O této knize](00_uvod/01_o-knize.md)
 
-### [Greenfoot](00_uvod/02_greenfoot.md)
+- [O této knize](00_uvod/01_o-knize.md)
 
-### [Příprava prostředí](00_uvod/03_priprava.md)
+- [Greenfoot](00_uvod/02_greenfoot.md)
+
+- [Příprava prostředí](00_uvod/03_priprava.md)
 
 ---
 ## Část 1: Seznámení s Greenfootem
 
-### [Kapitola 1: Ovládání Greenfootu](01_ovladani-greenfootu/)
+- [Kapitola 1: Svět a aktéři](01_seznameni-s-greenfootem/01_svet-a-akteri.md)
 
-## [Část 1.](01_cast1/)
+- [Kapitola 2: Interaktivní pokusy](01_seznameni-s-greenfootem/02_interaktivni-pokusy.md)
+
+- [Kapitola 3: První pohled do kódu](01_seznameni-s-greenfootem/03_kod.md)
+
 ---
 ## Část 2
 
